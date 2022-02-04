@@ -1,0 +1,14 @@
+.displays-container {
+    background-color: rgb(21, 92, 21);
+    height: 15vh;
+    width: 40%;
+    margin: auto;
+    border-radius: 10px;
+
+    
+}
+.displays-container p{
+    color: whitesmoke;
+    font-size: 20px;
+    padding: 10px;
+}

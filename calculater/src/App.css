@@ -1,0 +1,30 @@
+
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.main {
+  width: 60vw;
+  height: 80vh;
+  border-radius: 4px;
+  margin: auto;
+  background-color:rgb(208, 251, 208);
+}
+.main h2 {
+  text-align: center;
+  margin-top: 2em;
+  padding-top: 2em;
+  color: rgb(24, 92, 24);
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
